@@ -18,8 +18,7 @@
     "todomvc-app-css": "^2.3.0",
     "typescript": "~3.7.2",
     "uuid": "^7.0.3",
-    "xstate": "^4.9.1",
-    "xstate-redux": "^1.0.0"
+    "xstate": "^4.9.1"
   },
   "scripts": {
     "start": "react-scripts start",
