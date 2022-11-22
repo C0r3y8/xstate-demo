@@ -14,7 +14,7 @@
     "classnames": "^2.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "todomvc-app-css": "^2.3.0",
     "typescript": "~3.7.2",
     "uuid": "^7.0.3",
